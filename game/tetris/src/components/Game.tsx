@@ -342,7 +342,7 @@ const Game = () => {
                             justifyContent: "end",
                         }}
                     >
-                        {isPlaying && (
+                        {!isPlaying && (
                             <div onClick={gameStart}>
                                 <Button>시작하기</Button>
                             </div>
