@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.1aaf9f6c.css",
-    "main.js": "/static/js/main.209c4a57.js",
+    "main.js": "/static/js/main.7238f925.js",
     "static/js/787.f09bdab7.chunk.js": "/static/js/787.f09bdab7.chunk.js",
     "static/media/main.jpg": "/static/media/main.7149fb7559c1e8e61f85.jpg",
     "static/media/about.jpg": "/static/media/about.d90ebdd4c90f330eac82.jpg",
     "static/media/yujun.jpg": "/static/media/yujun.ca09d7b1a1e6c74a5f5d.jpg",
-    "static/media/main.png": "/static/media/main.5d25058b504acda933b0.png",
+    "static/media/main.png": "/static/media/main.1107ca3c143a11eefb8e.png",
+    "static/media/main.jpeg": "/static/media/main.29ad5e23a9b660566271.jpeg",
     "static/media/koreaAerospace.png": "/static/media/koreaAerospace.c2dfa6ff4f9096885eba.png",
     "static/media/doubledown.jpeg": "/static/media/doubledown.a5a35eb70e3972968697.jpeg",
     "static/media/notebook.png": "/static/media/notebook.64e0eee05903876fd9d2.png",
     "static/media/joystick.png": "/static/media/joystick.b9fa6800976a079f4372.png",
     "index.html": "/index.html",
     "main.1aaf9f6c.css.map": "/static/css/main.1aaf9f6c.css.map",
-    "main.209c4a57.js.map": "/static/js/main.209c4a57.js.map",
+    "main.7238f925.js.map": "/static/js/main.7238f925.js.map",
     "787.f09bdab7.chunk.js.map": "/static/js/787.f09bdab7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1aaf9f6c.css",
-    "static/js/main.209c4a57.js"
+    "static/js/main.7238f925.js"
   ]
 }
