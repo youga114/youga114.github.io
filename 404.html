@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      // 현재 경로: /game
+      var path = window.location.pathname;
+
+      // '/' 제거하고 hash 라우트로 변환
+      // '/game' -> '#/game'
+      var newUrl =
+        window.location.origin +
+        '/#' +
+        path;
+
+      window.location.replace(newUrl);
+    </script>
+  </head>
+  <body></body>
+</html>
