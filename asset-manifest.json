@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.086fc40b.css",
-    "main.js": "/static/js/main.74334bd6.js",
+    "main.js": "/static/js/main.a8888226.js",
     "static/js/787.f09bdab7.chunk.js": "/static/js/787.f09bdab7.chunk.js",
     "static/media/main.jpg": "/static/media/main.7149fb7559c1e8e61f85.jpg",
     "static/media/about.jpg": "/static/media/about.d90ebdd4c90f330eac82.jpg",
-    "static/media/main.png": "/static/media/main.a1a84332a4b5fecd0ace.png",
+    "static/media/main.png": "/static/media/main.f154ca476edea00eeec8.png",
     "static/media/main.jpeg": "/static/media/main.29ad5e23a9b660566271.jpeg",
     "static/media/koreaAerospace.png": "/static/media/koreaAerospace.c2dfa6ff4f9096885eba.png",
     "static/media/doubledown.jpeg": "/static/media/doubledown.a5a35eb70e3972968697.jpeg",
@@ -13,11 +13,11 @@
     "static/media/joystick.png": "/static/media/joystick.b9fa6800976a079f4372.png",
     "index.html": "/index.html",
     "main.086fc40b.css.map": "/static/css/main.086fc40b.css.map",
-    "main.74334bd6.js.map": "/static/js/main.74334bd6.js.map",
+    "main.a8888226.js.map": "/static/js/main.a8888226.js.map",
     "787.f09bdab7.chunk.js.map": "/static/js/787.f09bdab7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.086fc40b.css",
-    "static/js/main.74334bd6.js"
+    "static/js/main.a8888226.js"
   ]
 }
